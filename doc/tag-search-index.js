@@ -1,1 +1,0 @@
-tagSearchIndex = [{"l":"學員管理系統","h":"class com.sa.Student","d":"Section","u":"com/sa/Student.html#--heading"}];updateSearchResults();
